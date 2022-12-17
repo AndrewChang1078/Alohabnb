@@ -2,6 +2,7 @@
 
 ### Background
 - Final project for CS6314 Web Programming Language
+- An airbnb-like website using Javascript/HTML for front-end, Express for data accessing API, and Mongodb for database
 ### Install
 - Install environments for Express and Mongodb
 - Start Mongodb service
